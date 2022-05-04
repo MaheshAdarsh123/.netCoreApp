@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs
+/BookStoreCore/.vs/BookStoreCore/v16
+/BookStoreCore/obj
