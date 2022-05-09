@@ -5,3 +5,6 @@
 /.vs
 /BookStoreCore/.vs/BookStoreCore/v16
 /BookStoreCore/obj
+/BookStoreCore/.vs/BookStoreCore/config
+/BookStoreCore/bin/Debug/netcoreapp3.1
+/BookStoreCore/BookStoreCore.csproj.user
